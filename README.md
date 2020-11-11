@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Vinícius Andrade</h1>
-<h3 align="center">A passionate developer from Belo Horizonte - Brazil</h3>
+<h3 align="center">A passionate professional troubleshooter from Belo Horizonte - Brazil</h3>
 
-- 🔭 I’m currently working at [Questrade](https://www.questrade.com/home)
+- 🔭  I’m currently working at [Questrade](https://www.questrade.com/home)
 
-- 👨‍💻 All of my projects are available here. Howerver, my Udemy Courses on [https://programadamente.com](https://programadamente.com)
+- 💻  All of my projects are available here. Howerver, my Udemy Courses on [https://programadamente.com](https://programadamente.com)
 
-- 📺 I usually post videos on [https://youtube.com/ozirispc](https://youtube.com/ozirispc)
+- 📺  I usually post videos on [https://youtube.com/ozirispc](https://youtube.com/ozirispc)
 
-- 💬 Like to talk about **Asp.NET Core, C#, EF Core, Typescript, Javascript, Angular, Vue or React, Bootstrap or Material Design...**
+- 💬  Like to talk about **Asp.NET Core, C#, EF Core, Typescript, Javascript, Angular, Vue or React, Bootstrap or Material Design...**
 
-- 📫 How to reach me **programadamente@gmail.com**
+- 📫  How to reach me **programadamente@gmail.com**
 
-- ⚡ Fun fact **Churrasco 🍖, Pão de Queijo 🧀, Movies, Sitcoms and of course my Mountain Bike 🚵‍♂️**
+- ⚡  Fun fact **Churrasco 🍖, Pão de Queijo 🧀, Movies, Sitcoms and of course my Mountain Bike 🚵‍♂️**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsandrade&show_icons=true" alt="vsandrade" />
