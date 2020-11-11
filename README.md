@@ -5,13 +5,15 @@
 
 - 💻  All of my projects are available here. Howerver, my Udemy Courses on [https://programadamente.com](https://programadamente.com)
 
-- 📺  I usually post videos on [https://youtube.com/ozirispc](https://youtube.com/ozirispc)
+- 🎞️  I usually post videos on [https://youtube.com/ozirispc](https://youtube.com/ozirispc)
 
-- 💬  Like to talk about **Asp.NET Core, C#, EF Core, Typescript, Javascript, Angular, Vue or React, Bootstrap or Material Design...**
+- 💬  Ask me about **Asp.NET Core, C#, EF Core, Typescript, Javascript, Angular, Vue or React, Bootstrap or Material Design...**
+
+- 💬  I would appreciate to talk about **DDD, TDD, UX, UI, Design Patterns, SOLID, CRISP and MORE!**
 
 - 📫  How to reach me **programadamente@gmail.com**
 
-- ⚡  Fun fact **Churrasco 🍖, Pão de Queijo 🧀, Movies, Sitcoms and of course my Mountain Bike 🚵‍♂️**
+- ⚡  Always keen on **🍖 Churrasco, 🧀 Pão de Queijo, 🎮 PS4, 🍿 Movies, 📺 Sitcoms and of course 🚵 Cycling mountain bike**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsandrade&show_icons=true" alt="vsandrade" />
