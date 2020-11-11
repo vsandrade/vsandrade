@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **programadamente@gmail.com**
 
-- ⚡ Fun fact **Churrasco 🍖, Pão de Queijo 🧀 and my Mountain Bike 🚵‍♂️**
+- ⚡ Fun fact **Churrasco 🍖, Pão de Queijo 🧀, Movies, Sitcoms and of course my Mountain Bike 🚵‍♂️**
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsandrade&show_icons=true" alt="vsandrade" />
