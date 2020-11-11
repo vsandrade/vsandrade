@@ -18,16 +18,16 @@
 </p>
 
 <p align="center">
-  <a href="https://youtube.com/ozirispc" target="blank">
+  <a href="https://youtube.com/ozirispc" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="hynzhw" height="20" width="20" />
   </a>
-  <a href="https://instagram.com/ozirispc" target="blank">
+  <a href="https://instagram.com/ozirispc" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="hynzhw" height="20" width="20" />
   </a>
-  <a href="https://twitter.com/ozirispc" target="blank">
+  <a href="https://twitter.com/ozirispc" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="hynzhw" height="20" width="20" />
   </a>
-  <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-andrade-31b60620/" target="blank">
+  <a href="https://www.linkedin.com/in/vin%C3%ADcius-de-andrade-31b60620/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ghaynesh" height="20" width="20" />
   </a>
 </p>
