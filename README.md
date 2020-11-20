@@ -3,7 +3,7 @@
 
 - 🔭  I’m currently working at [Questrade](https://www.questrade.com/home).
 
-- 💻  All of my projects are available here. Howerver, my Udemy Courses on [https://programadamente.com](https://programadamente.com).
+- 💻  All of my projects are available here. Howerver, my Udemy Courses are on [https://programadamente.com](https://programadamente.com).
 
 - 🎞️  I usually post videos on [https://youtube.com/ozirispc](https://youtube.com/ozirispc).
 
