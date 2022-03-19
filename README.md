@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinícius Andrade</h1>
-<h3 align="center">A passionate professional troubleshooter from Belo Horizonte - Brazil</h3>
+<h3 align="center">A passionate professional troubleshooter from Belo Horizonte - Brazil - (Now in Toronto - Canada 🇨🇦)</h3>
 
 - 🔭  I’m currently working at [Questrade](https://www.questrade.com/home).
 
@@ -13,7 +13,7 @@
 
 - 📫  How to reach me **programadamente@gmail.com**.
 
-- ⚡  Always keen on **🍖 Churrasco, 🧀 Pão de Queijo, 🎮 PS4, 🍿 Movies, 📺 Sitcoms and of course 🚵 Cycling mountain bike**.
+- ⚡  Always keen on **🍖 Churrasco, 🧀 Pão de Queijo, 🎮 PS5, 🍿 Movies, 📺 Sitcoms and of course 🚵 Cycling mountain bike**.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vsandrade&show_icons=true" alt="vsandrade" />
