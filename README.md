@@ -3,9 +3,9 @@
 
 - 🔭  I’m currently working at [Questrade](https://www.questrade.com/home).
 
-- 💻  All of my projects are available here. However, my Udemy Courses are on [https://programadamente.com](https://programadamente.com).
+- 💻  All of my projects are available here. However, my Udemy Courses are on [https://programadamente.com.br](https://programadamente.com.br).
 
-- 🎞️  I usually post videos on [https://youtube.com/ozirispc](https://youtube.com/ozirispc).
+- 🎞️  I usually post videos on [https://youtube.com/programadamente](https://youtube.com/programadamente).
 
 - 💬  Ask me about **Asp.NET Core, C#, EF Core, Typescript, Javascript, Angular, Vue or React, Bootstrap or Material Design...**
 
@@ -34,6 +34,10 @@
   </a>
 </p>
 
+<hr/>
+
+<div align="center">
+  
 | No  | Course link with discount | Git Repository |
 | --- | ----------- | ----------- | 
 | 01 | [ASP.NET 8 - Criando Uma Minimal API](https://www.udemy.com/course/aspnet-minimal-api/?referralCode=6A6EBD6C2C38A3243DB8) | Coming soon... |
@@ -48,3 +52,6 @@
 | 10 | [Visual Studio Code - Máxima Produtividade](https://www.udemy.com/course/vs-code-max-produtividade/?referralCode=9B2FC478FABD510D57BE) | Coming soon... |
 | 11 | [BOOTSTRAP - Todos Os Segredos.](https://www.udemy.com/course/bootstrap-4-ozirispc/?referralCode=71A5D3E350537241A231) | Coming soon... |
 | 12 | [Teste Unitário - Básico Para Desenvolvedores C#](https://www.udemy.com/course/teste-unitario-dotnet/?referralCode=3ADEE6C253FB750A13C7) | Coming soon... |
+
+</div>
+
