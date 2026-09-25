@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinícius Andrade</h1>
 <h3 align="center">A passionate professional troubleshooter from Belo Horizonte - Brazil - (Now in Toronto - Canada 🇨🇦)</h3>
 
-- 🔭  I’m currently working at [Questrade](https://www.questrade.com/home).
+- 🔭  I’m currently working at [Coming Soon...]
 
 - 💻  All of my projects are available here. However, my Udemy Courses are on [https://programadamente.com.br](https://programadamente.com.br).
 
